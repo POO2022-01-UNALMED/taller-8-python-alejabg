@@ -13,5 +13,5 @@ class Deportista:
     def  getAñosPracticando(self):
         return self._añosPracticando
 
-    def setAñosPracticando(self, sexo):
-        self._añosPracticando = sexo
+    def setAñosPracticando(self, x):
+        self._añosPracticando = x
